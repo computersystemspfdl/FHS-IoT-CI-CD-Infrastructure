@@ -1,0 +1,10 @@
+VOLFlagunshare1
+no flaw with unshare1
+
+VOLFlagunbind1
+no flaw with unbind1
+
+VOLFlagAPIRequest1
+1: bind1 share1 unshare1 APIRequest1
+PHILIPSHUEUESER->PHILIPSHUECLOUD->PHILIPSHUEBULB
+
